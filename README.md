@@ -28,25 +28,22 @@ I strive to combine my technical abilities with creativity and purpose to solve 
 
 ## 🛠️ Tech Stack
 
-### 📊 Data & Visualization:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 🗃️ **Data Engineering**
+- **Languages:** Python, SQL, Bash  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **ETL Tools:** Apache Airflow, dbt (basic), Pandas pipelines  
+- **Big Data & Processing:** Apache Spark (basic), Kafka (basic)  
+- **Cloud & Storage:** AWS S3, EC2, VPC (basic)
 
-### ⚙️ Engineering & Pipelines:
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 📊 **Data Analysis & Visualization**
+- **Exploratory Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Dashboards & BI:** Tableau, Power BI, Streamlit  
+- **Data Cleaning & Transformation:** Jupyter Notebooks, Excel, SQL queries  
 
-### 🧠 AI & ML:
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-007ACC?style=for-the-badge&logoColor=white)
-![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge)
+### 🤖 **Machine Learning & AI**
+- **Frameworks:** scikit-learn, TensorFlow (basic)  
+- **Use Cases:** Regression, Classification, NLP (LangChain)  
+- **Bioinformatics:** Biopython, Sequence Alignment, Phylogenetic Trees  
 
 ---
 
