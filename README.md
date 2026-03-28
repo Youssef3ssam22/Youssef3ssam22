@@ -8,7 +8,7 @@
 I’m a Data Engineer passionate about building scalable data pipelines and transforming raw data into meaningful insights.   
 I have hands-on experience in SQL, data modeling, ETL pipelines, and data warehousing, with a strong focus on performance and data quality.   
  
-⚡ Fun Fact: I enjoy optimizing data workflows and solving complex data problems.   
+⚡ I enjoy optimizing data workflows and solving complex data problems.   
  
 --- 
  
