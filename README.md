@@ -14,7 +14,7 @@ I have hands-on experience in SQL, data modeling, ETL pipelines, and data wareho
 
 ## 👨‍💻 Projects  
 - 🔗 [GitHub Repositories](https://github.com/Youssef3ssam22?tab=repositories)  
-- 📄 [View My CV](https://drive.google.com/file/d/1CnKf1lFVr1znb7orlS8HyS2Lkd_xYTTx/view?usp=sharing)  
+- 📄 [View My CV]([[https://drive.google.com/file/d/1CnKf1lFVr1znb7orlS8HyS2Lkd_xYTTx/view?usp=sharing](https://drive.google.com/file/d/1-0jKcQ46fTk5a7NGrG9WoDWAAzmFoXN8/view?usp=drive_link)](https://drive.google.com/file/d/1-0jKcQ46fTk5a7NGrG9WoDWAAzmFoXN8/view?usp=sharing))  
 
 ---
 
